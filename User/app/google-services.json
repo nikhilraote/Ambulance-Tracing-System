@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376968823248",
+    "firebase_url": "https://ambulancetracingsystem-6eb16.firebaseio.com",
+    "project_id": "ambulancetracingsystem-6eb16",
+    "storage_bucket": "ambulancetracingsystem-6eb16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376968823248:android:50419ce064f3db71",
+        "android_client_info": {
+          "package_name": "e.nikhi.ambulancecode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376968823248-78v0n6lqhnm1gmulfiplqno528l8mnkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.nikhi.ambulancecode",
+            "certificate_hash": "380795e898116f04458c7ee9bed6f5680b69ea59"
+          }
+        },
+        {
+          "client_id": "376968823248-5l0645ujkd8vrlhtmh04cj0ah9l2nger.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRi1qJISD2HdmhcoeSjvcl-oVk8i2YZjs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376968823248-5l0645ujkd8vrlhtmh04cj0ah9l2nger.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ambulancecode</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyC_g0oh3gVDvYWjOo-3UviaBijrQmJHvdU</string>
+</resources>

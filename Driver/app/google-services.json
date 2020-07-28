@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "965364189426",
+    "firebase_url": "https://ambulancerider-5ddaa.firebaseio.com",
+    "project_id": "ambulancerider-5ddaa",
+    "storage_bucket": "ambulancerider-5ddaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965364189426:android:bec709a4959d6f9c",
+        "android_client_info": {
+          "package_name": "e.nikhi.ambulancerider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965364189426-0iscm447t74a3289mi6pig1m4n6gvtps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.nikhi.ambulancerider",
+            "certificate_hash": "380795e898116f04458c7ee9bed6f5680b69ea59"
+          }
+        },
+        {
+          "client_id": "965364189426-hgalbstrs6vo608kv2e5r6vkuj0re6f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM4cjOQnU4bQZC69G8J1OdBVuMydm4-EE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965364189426-hgalbstrs6vo608kv2e5r6vkuj0re6f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
